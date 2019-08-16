@@ -1,0 +1,23 @@
+body {
+  margin: 50px auto;
+  width: 1440px;
+}
+#checking {
+  display: none;
+  background: #ffffff;
+  z-index: 99;
+  margin-top: 30px;
+}
+#loading {
+  width: 50px;
+}
+#menuSection {
+  margin-top: 30px;
+}
+#countryBox {
+  margin-top: 70px;
+  width: 300px;
+}
+#countryFlag {
+  width: 300px;
+}
